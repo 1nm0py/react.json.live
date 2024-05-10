@@ -1,0 +1,23 @@
+{
+  "blogs":[
+      {
+          "title":"My first Blog",
+          "body":"Name' is assigned a value but never used",
+          "author":"mario",
+          "id":1
+      },
+      {
+          "title":"My first Blog",
+          "body":"setName' is assigned a value but never used",
+          "author":"yoshi",
+          "id":2
+      },
+      {
+          "title":"My first Blog",
+          "body":"setName' is assigned a value but never used",
+          "author":"lui",
+          "id":3
+      }
+
+  ]
+}
